@@ -39,5 +39,5 @@ The dataset consists of five CSV files:
 
 ## 🚀 How to Run the Project  
 1️⃣ Clone this repository: 
-   git clone https://github.com/tuusuario/project_sprint_4.git
+   git clone https://github.com/inorja12/project_sprint_4.git
 
